@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1532343563 source:d:\c++ projekti\ant colony\mrav.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1532174345 source:d:\c++ projekti\ant colony\main.cpp
+	<iostream>
+	"menadzer.cpp"
+
+1532343563 d:\c++ projekti\ant colony\mrav.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1534263024 d:\c++ projekti\ant colony\menadzer.cpp
+	"Mrav.cpp"
+
+1534262768 source:d:\c++ projekti\ant colony\menadzer.cpp
+	"Mrav.cpp"
+
